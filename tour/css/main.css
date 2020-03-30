@@ -125,9 +125,10 @@
 
     .nav-aside a{
         font-size: 16px;
-        color: #ce1d5c;
+        color: #ced1d5;
         text-decoration: none;
         padding-left: 20px;
+        line-height: 44px;
         display:block;
     }
 
